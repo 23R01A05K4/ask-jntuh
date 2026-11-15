@@ -2,7 +2,7 @@
 
 Ask questions about **JNTUH B.Tech (R22) academic regulations** in plain English and get answers with citations to the exact official document and page — promotion rules, detention, attendance, credits, CBT exams, grace marks.
 
-**Live demo:** _link added after deployment_
+**Live demo:** https://ask-jntuh.onrender.com
 
 ## The problem
 Before every exam and result season, students dig through 100+ page regulation PDFs and scattered circulars to answer simple questions: *How many credits do I need for promotion? What's the detention rule? Is 65% attendance enough?* This project makes those documents conversational.
